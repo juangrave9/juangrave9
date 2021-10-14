@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juangrave9
 - 👀 I’m interested in Artificial Intelligence, Machine Learning.
-- 🌱 I’m currently learning SQL, PowerBI.
+- 🌱 SQL, Python.
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me : juangrave9@gmail.com
 
